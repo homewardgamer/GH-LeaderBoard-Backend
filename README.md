@@ -1,2 +1,2 @@
 # GeekHaven LeaderBoard Backend
-## This is the backend of Geekhaven leaderboard website
+## This is the backend to the Geekhaven leaderboard website
